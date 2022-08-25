@@ -1,0 +1,16 @@
+.nav{
+    margin: 30px;
+    padding: 20px;
+    justify-content: space-between;
+    float: inline-end;
+    display: float;
+    flex-direction: row;
+    background-color: brown;
+}
+.list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  list-style: none;
+ 
+}
